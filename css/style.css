@@ -1,0 +1,144 @@
+.con-01{
+    min-width: -webkit-fill-available;
+    background: rgb(94,27,158);
+background: linear-gradient(90deg, rgba(94,27,158,1) 24%, rgba(79,21,156,1) 46%, rgba(55,27,138,1) 80%);
+}
+.bar-001{
+    display: inline-flex !important;
+    margin-right: -11px !important;
+    margin-left: 630px !important;
+}
+
+.nav-002{
+    color: white;
+}
+.sandbox{
+    margin-left: 133px;
+    font-size: xxx-large;
+}
+.eh-01{
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.eh-02{
+    margin-top: 37px;
+    margin-left: -20px;
+    font-weight: 600;
+    z-index: 2;
+   
+    color:white;
+}
+.eh-03{
+    margin-top: 50px;
+    margin-left: -25px;
+    font-size: larger;
+    color: #fff!important
+
+}
+.eh-04{
+    margin-left: 213px;
+    margin-top: 50px;
+    margin-bottom: 250px;
+    padding: 12px;
+    border-radius: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.eh-05{
+    font-size: large;
+    font-weight: 700;
+    color: white !important;
+}
+
+
+.nav-link{
+    font-size: large;
+}
+.nav-link:hover{
+    font-size: x-large;
+}
+
+.img-001{
+    margin-top: -135px;
+    margin-left: 40px;
+}
+.back-ground{
+    border-radius: 20px !important;
+    display: inline-table !important;
+    margin-left: 181px !important;
+    margin-top: -86px !important;
+    background: rgb(94,27,158);
+    background: linear-gradient(90deg, rgba(94,27,158,1) 24%, rgba(79,21,156,1) 46%, rgba(55,27,138,1) 80%);
+    }
+.col{
+    margin-left: 137px;
+}
+.eh-1{
+    margin-left: 65px;
+    
+}
+.eh-2{
+    margin-left: 37px;
+    margin-right: 75px;
+
+}
+.eh-003{
+    margin-left: 96px;
+}
+.fw-01{
+    font-weight: 900;
+  
+}
+.eh-m{
+    margin-bottom: -65px !important;
+    display: flex;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background-color: #e0e9fa;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50px;
+    margin-left: -13px;
+}
+.co-01{
+    color: #747ed1 !important;
+}
+.imge-001{
+    width: auto;
+    max-width: 100%;
+    height: auto!important;
+    border-radius: 20px;
+    width: 243px;
+   
+
+}
+.imge-002{
+    width: auto;
+    max-width: 100%;
+    height: auto!important;
+    border-radius: 20px;
+    width: 243px;
+}
+.bo-001{
+    color: #747ed1 !important;
+    background-color: #e0e9fa;
+    border-radius: 50px;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    align-items: center;
+}
+.ehs-003{
+    margin-left: 13px;
+}
+.mb-001{
+    margin-left: -40px;
+}
+.marb-1{
+    margin-left: -117px !important;
+}
