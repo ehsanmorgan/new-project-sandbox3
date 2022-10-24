@@ -231,6 +231,7 @@ border-radius: 50px;
     box-shadow: 0 .60rem 3rem rgba(30,34,40,.07)!important;  }
 
     .e-203{
+        border: 1px solid #54a8c7 !important;
         display: inline !important;
         padding: 15px !important;
         border-width: 2px !important;
@@ -250,7 +251,66 @@ border-radius: 50px;
         color: #60697b ;
     }
     .bx-1{
+        
         color: #dc48c1 !important;
 background-color: #e0e9fa;
 border-radius: 50px;
     }
+    .dis-100{
+        display: contents;
+    }
+    .card-100{
+        height: 150px !important;
+        background-color: #e9eaf8!important;
+        border-radius: 30px;
+    }
+    .img-br{
+        border-radius: 30px;
+    }
+    .e-101{
+        
+        background: #21262c!important;
+        color: white;
+        min-width: -webkit-fill-available;
+       
+    }
+    .mb-2{
+        color: #9499a3;
+        
+    }
+    .mb-2:hover{
+       color:  #747ed1 ;
+    }
+    .dic-1{
+        list-style-type: none;
+    }
+    .ml-1{
+        margin-left: 43px !important;
+    }
+    .btn-12{
+        color:white;
+        background-color: #747ed1;
+        border-radius: 10px;
+        width: 100px;
+        padding: 10px;
+        
+    }
+    .btn-13{
+        background: #25282b!important;
+        color: white;
+        border: 1px solid #747ed1 ;
+    }
+    
+
+    .sm-icons .nav-item {
+        padding-right: 1em;
+      }
+      .sm-icons {
+        flex-direction: inherit !important;
+        margin-left: -32px;
+    }
+
+
+
+
+    
