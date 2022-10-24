@@ -309,7 +309,37 @@ border-radius: 50px;
         flex-direction: inherit !important;
         margin-left: -32px;
     }
+     .wrapper.angled{
+        position: relative !important;
+        border: 0;
+     }
+     .wrapper.angled.upper-end:before {
+        border-right-color: transparent;
+        border-right-width: 100vw;
+        border-top-width: 4rem;
+        top: -4rem;}
 
+     .wrapper.angled::before{
+        content: "" !important;
+        display: block !important;
+        position: absolute !important;
+        right: 0 !important;
+        z-index: 0 !important;
+        border: 0 solid transparent !important;
+     }
+
+     .wrapper.bg-light.angled.lower-end:after, .wrapper.bg-light.angled.upper-end:before {
+        border-right-color: #fefefe;
+    }
+
+    .wrapper.angled:after, .wrapper.angled:before {
+        content: "";
+        display: block;
+        position: absolute;
+        right: 0;
+        z-index: 0;
+        border: 0 solid transparent;
+    }
 
 
 
